@@ -1,4 +1,4 @@
-# Render([render.com](https://render.com/)にMQTTブローカーを構築する最小のdocker-composeサンプル
+# ([render.com](https://render.com/))にMQTTブローカーを構築する最小のdocker-composeサンプル
 
 ## 使い方
 1. [Renderダッシュボード](https://dashboard.render.com/)から新規WebServiceを作成
